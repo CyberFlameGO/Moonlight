@@ -1,0 +1,3 @@
+[submodule "NachoSpigot"]
+	path = NachoSpigot
+	url = https://github.com/CobbleSword/NachoSpigot
